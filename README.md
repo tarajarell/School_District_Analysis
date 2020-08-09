@@ -16,7 +16,7 @@ The school board is seeking a new, similar analysis after finding some of the da
 
 ![overview_by_school.jpg](https://github.com/tarajarell/School_District_Analysis/blob/master/Resources/overview_by_school.jpg)
 
-> The previous analysis was changed only for Thomas High SchooL, in the following areas: Average Math Score (83.418349), Average Reading Score (83.848930), Percent Passing Math (93.272171%), Percent Passing Reading (97.308869%), and Percent Overall Passing (90.948012%).
+> The previous analysis showed the following differences for Thomas High School: Average Math Score (83.418349), Average Reading Score (83.848930), Percent Passing Math (93.272171%), Percent Passing Reading (97.308869%), and Percent Overall Passing (90.948012%).
 
 - Tables presenting each of the following metrics:
   - Top 5 and bottom 5 performing schools, based on the overall passing rate
