@@ -31,7 +31,7 @@ The school board is seeking a new, similar analysis after finding some of the da
   
   ![math_scores_by_school.jpg](https://github.com/tarajarell/School_District_Analysis/blob/master/Resources/math_scores_by_school.jpg)
   
-  > Average math score for Thoams High School: 9th grade was previously 83.6.
+  > Average math score for Thomas High School: 9th grade was previously 83.6.
   
   - The average reading score received by students in each grade level at each school
   
@@ -43,7 +43,7 @@ The school board is seeking a new, similar analysis after finding some of the da
   
   ![scores_by_budget.jpg](https://github.com/tarajarell/School_District_Analysis/blob/master/Resources/scores_by_budget.jpg)
   
-  > The spending range of $630-644 per student is the only seciton which is different in the previous analysis. Previously, the percents for the following areas were such: Passing Math (73%), Passing Reading (84%), and Overall Passing (63%).
+  > The spending range of $630-644 per student is the only seciton which, excluding math and reading scores, is different in the previous analysis. Previously, the percents for the following areas were such: Passing Math (73%), Passing Reading (84%), and Overall Passing (63%).
   
   - School performance based on the school size 
   
