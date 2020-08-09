@@ -43,17 +43,18 @@ The school board is seeking a new, similar analysis after finding some of the da
   
   ![scores_by_budget.jpg](https://github.com/tarajarell/School_District_Analysis/blob/master/Resources/scores_by_budget.jpg)
   
-  > Spending range of $630-644 per student is the only section which, excluding math and reading scores, is different in the previous analysis. Previously, the percents for the following areas were such: Passing Math (73%), Passing Reading (84%), and Overall Passing (63%).
+  > The Spending Range of **$630-644 Per Student** is the only area which, excluding math and reading scores, is different in the previous analysis. Previously, the percents for the following areas were such: Passing Math (73%), Passing Reading (84%), and Overall Passing (63%).
   
   - School performance based on the school size 
   
   ![scores_by_size.jpg](https://github.com/tarajarell/School_District_Analysis/blob/master/Resources/scores_by_size.jpg)
   
+  > The **Medium** School Size is the area which, excluding math and reading scores, is different in the previous analysis. Previously, the percents for the following areas were such: Passing Math (94%), Passing Reading (97%), and Overall Passing (91%).
   
   - School performance based on the type of school
   
   ![scores_by_type.jpg](https://github.com/tarajarell/School_District_Analysis/blob/master/Resources/scores_by_type.jpg)
   
-  
+  > The **Charter** School Type is the only area which, excluding math and reading scores, is different in the previous analysis. Previously, the percents for the following areas were such: Passing Math (94%), Passing Reading (97%), and Overall Passing (90%).
 
 ## Analysis
