@@ -16,7 +16,8 @@ The school board is seeking a new, similar analysis after finding some of the da
 
 ![overview_by_school.jpg](https://github.com/tarajarell/School_District_Analysis/blob/master/Resources/overview_by_school.jpg)
 
-  - The previous analysis was changed only for Thomas High Schol
+> The previous analysis was changed only for Thomas High SchooL, in the following areas:
+>   Average Math Score (83.418349), Average Reading Score
 
 - Tables presenting each of the following metrics:
   - Top 5 and bottom 5 performing schools, based on the overall passing rate
