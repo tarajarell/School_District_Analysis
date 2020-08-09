@@ -1,19 +1,22 @@
 # School_District_Analysis
 
-## Purpose
-The school board is seeking a new, similar analysis after finding some of the data from a previous analysis on the math and reading scores was inaccurate. Seeking first to have the inaccurate data taken out of the analysis, the school board would like the analysis to be run again and to more accurately understand how the school districts and charters fared individually and overall. 
+## Overview
+The school board is seeking a new, similar analysis after finding some of the data from a previous analysis on the math and reading scores was inaccurate. Seeking first to have the inaccurate data taken out of the analysis, the school board would like the analysis to be run again and to more accurately understand how the school districts and charters fared individually and overall. The school district would like the analysis to include the following: 
 
-The school district would like the analysis to include the following: 
+## Results
 
 - A high-level snapshot of the district's key metrics, presented in a table format
 
 ![district_summary_df.jpg](https://github.com/tarajarell/School_District_Analysis/blob/master/Resources/district_summary_df.jpg)
 
+  - The previous analysis included the same number of schools, students, budget amount, average math score, and average reading score.
+  - The previous analysis showed different numbers for the Percent Passing Math (75%), Percent Passing Reading (86%), and Overall Passing Percent (65%).
 
 - An overview of the key metrics for each school, presented in a table format
 
 ![overview_by_school.jpg](https://github.com/tarajarell/School_District_Analysis/blob/master/Resources/overview_by_school.jpg)
 
+  - The previous analysis was changed only for Thomas High Schol
 
 - Tables presenting each of the following metrics:
   - Top 5 and bottom 5 performing schools, based on the overall passing rate
