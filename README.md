@@ -61,9 +61,9 @@ The school board is seeking a new, similar analysis after finding some of the da
 While there were slight changes in the overall look at the school board's numbers, there were the most changes noted between the previous and current analysis when looking at tables by school (Thomas High), amount per student ($630-644), size (Medium), and type (Charter). 
 
 The four major changes in the school district analysis after taking out the inaccurate data are:
-1. Thomas High School's passing percentages by school
-2. The Spending Range Per Student of $630-644's passing percentages
-3. The Medium School Size's passing percentages
-4. The Charter School Type's passing percentages
+1. Thomas High School's passing percentages by school are now less than previously assessed by 26.360856% for Math, 27.64526% for Reading, and 25.871559% overall.
+2. The Spending Range Per Student of $630-644's passing percentages are now less than previously assessed by 6% for Math, 7% for Reading, and 7% overall.
+3. The Medium School Size's passing percentages are now less than previously assessed by 6% for Math, 6% for Reading, and 6% overall.
+4. The Charter School Type's passing percentages are now less than previously assessed by 4% for Math, 4% for Reading, and 3% overall.
 
-
+Additionally, the top 5 schools have changed with the removal of Thomas High and inclusion of Wright High in the final spot. The tables across school by grade were also unable to report numbers for Thomas High when they previously did have the (corrupted) data included.
