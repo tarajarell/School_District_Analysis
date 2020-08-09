@@ -57,4 +57,12 @@ The school board is seeking a new, similar analysis after finding some of the da
   
   > The **Charter** School Type is the only area which, excluding math and reading scores, is different in the previous analysis. Previously, the percents for the following areas were such: Passing Math (94%), Passing Reading (97%), and Overall Passing (90%).
 
-## Analysis
+## Summary
+While there were slight changes in the overall look at the school board's numbers, there was the most changes noted between the previous and current analysis when looking at DataFrames by school (Thomas High), amount per student ($630-644), size (Medium), and type (Charter). 
+The four major changes in the school district analysis after taking out the inaccurate data are:
+1. Thomas High School's passing percentages by school
+2. The Spending Range Per Student of $630-644's passing percentages
+3. The Medium School Size's passing percentages
+4. The Charter School Type's passing percentages
+
+There were slight changes in 
