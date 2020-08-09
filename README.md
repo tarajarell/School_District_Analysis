@@ -25,17 +25,19 @@ The school board is seeking a new, similar analysis after finding some of the da
   
   ![bottom_5_schools.jpg](https://github.com/tarajarell/School_District_Analysis/blob/master/Resources/bottom_5_schools.jpg)
   
-  > Previously, Thomas High School was listed in the second position of the top schools.
+  > Previously, Thomas High School was listed in the second position of the top schools table.
   
   - The average math score received by students in each grade level at each school
   
   ![math_scores_by_school.jpg](https://github.com/tarajarell/School_District_Analysis/blob/master/Resources/math_scores_by_school.jpg)
   
+  > Average math score for Thoams High School: 9th grade was previously 83.6.
   
   - The average reading score received by students in each grade level at each school
   
   ![reading_scores_by_school.jpg](https://github.com/tarajarell/School_District_Analysis/blob/master/Resources/reading_scores_by_school.jpg)
   
+  >Average reading score for Thomas High School: 9th grade was previously 83.7
   
   - School performance based on the budget per student
   
