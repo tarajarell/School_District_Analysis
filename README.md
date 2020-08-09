@@ -66,4 +66,4 @@ The four major changes in the school district analysis after taking out the inac
 3. The Medium School Size's passing percentages are now less than previously assessed by 6% for Math, 6% for Reading, and 6% overall.
 4. The Charter School Type's passing percentages are now less than previously assessed by 4% for Math, 4% for Reading, and 3% overall.
 
-Additionally, the top 5 schools have changed with the removal of Thomas High and inclusion of Wright High in the final spot. The tables across school by grade were also unable to report numbers for Thomas High when they previously did have the (corrupted) data included.
+Additionally, the top 5 schools have changed with the removal of Thomas High in the second spot and inclusion of Wright High in the final spot. The tables across school by grade were also unable to report numbers for Thomas High while they previously did have the (corrupted) data included.
