@@ -25,7 +25,7 @@ The school board is seeking a new, similar analysis after finding some of the da
   
   ![bottom_5_schools.jpg](https://github.com/tarajarell/School_District_Analysis/blob/master/Resources/bottom_5_schools.jpg)
   
-> Previously, Thomas High School was listed in the second position of the top schools.
+  > Previously, Thomas High School was listed in the second position of the top schools.
   
   - The average math score received by students in each grade level at each school
   
