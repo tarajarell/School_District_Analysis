@@ -9,8 +9,8 @@ The school board is seeking a new, similar analysis after finding some of the da
 
 ![district_summary_df.jpg](https://github.com/tarajarell/School_District_Analysis/blob/master/Resources/district_summary_df.jpg)
 
-    - The previous analysis included the same number of schools, students, budget amount, average math score, and average reading score.
-    - The previous analysis showed different numbers for the Percent Passing Math (75%), Percent Passing Reading (86%), and Overall Passing Percent (65%).
+> The previous analysis included the same number of schools, students, budget amount, average math score, and average reading score.
+> The previous analysis showed different numbers for the Percent Passing Math (75%), Percent Passing Reading (86%), and Overall Passing Percent (65%).
 
 - An overview of the key metrics for each school, presented in a table format
 
