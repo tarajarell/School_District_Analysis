@@ -6,6 +6,10 @@ The school board is seeking a new, similar analysis after finding some of the da
 The school district would like the analysis to include the following: 
 
 - A high-level snapshot of the district's key metrics, presented in a table format
+
+![district_summary_df.jpg](https://github.com/tarajarell/School_District_Analysis/blob/master/Resources/district_summary_df.jpg)
+
+
 - An overview of the key metrics for each school, presented in a table format
 - Tables presenting each of the following metrics:
   - Top 5 and bottom 5 performing schools, based on the overall passing rate
